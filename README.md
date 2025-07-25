@@ -1,3 +1,3 @@
 # 5219546_Gurram-Adithya
 Git Certificate
-![Git Certificate](https://example.com/path/to/image.png)
+![Git Certificate](https://github.com/adhi191855/5219546_Gurram-Adithya/blob/main/SARTHIKA_GIT.pdf)
